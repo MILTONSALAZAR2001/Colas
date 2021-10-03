@@ -1,2 +1,2 @@
 # Colas
-estructura
+EstructuraDeDatosColas
